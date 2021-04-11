@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinav @DirectriX01
 - 👀 I’m interested in Computer Vision and Reinforcement learning
 - 🌱 I’m currently learning Java, SOTA Models
-- 💞️ I’m looking to collaborate on Node.js, AI & Deep learning models
+- 💞️ I’m looking to collaborate on Node.js project & Deep learning models
 - 📫 How to reach me: email me @abhinav499[at]gmail[dot]com
 
 <!---
