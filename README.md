@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Vision and Reinforcement learning
 - 🌱 I’m currently learning Java, SOTA Models
 - 💞️ I’m looking to collaborate on Node.js project & Deep learning models
-- 📫 How to reach me: email me @cabhinav.0001[at]gmail[dot]com
+- 📫 How to reach me: email me @ cabhinav.0001[at]gmail[dot]com
 
 
 <h3 align="left">Languages and Tools:</h3>
